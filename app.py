@@ -15,7 +15,7 @@ if GEMINI_API_KEY and GEMINI_API_KEY != 'your_api_key_here':
     genai.configure(api_key=GEMINI_API_KEY)
 
 # Hidden flag
-FLAG = "HackX{h4ck3r_4i_pr0mpt_1nj3ct10n_m4st3r_2024}"
+FLAG = "HackX{h4ck3r_4i_pr0mpt_1nj3ct10n_m4st3r}"
 
 # Rate limiting simple implementation
 request_counts = {}
